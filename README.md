@@ -43,6 +43,18 @@ npm run build
 
 Running this command will generate the `bundle.js` and other necessary files which will be located inside the `/dist` folder
 
+# Why I did this?
+
+I created this new GitHub repository with a purpose in mind. Let me share the story behind it. I already had an existing PHP application, and I wanted to enhance its interface using JavaScript.
+
+To achieve this, I needed to utilize certain libraries that were available on npm. However, there was a hurdle to overcome: I had to install Node.js in order to make use of npm. When searching for tutorials online, I noticed that most of them focused on developing JavaScript and deploying it using Node.js. But my intention was different - I wanted to deploy the JavaScript within my existing PHP application. 
+
+After conducting some ~~extensive~~ research, I discovered that using webpack would solve my problem. Additionally, I realized that TypeScript could be a valuable tool to enhance my development experience.
+
+Now that I have reached this stage, I decided to create this boilerplate. It allows me to easily clone this repository whenever I start a new project. Not only does it serve as a platform for my development work, but it also acts as a testing ground for learning more about ES5 and ES6.
+
+With this repository, I hope to simplify and streamline the process of improving interfaces in PHP applications using JavaScript.
+
 # Thanks to
 
 https://blog.logrocket.com/using-webpack-typescript/

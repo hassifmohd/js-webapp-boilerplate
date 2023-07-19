@@ -43,6 +43,22 @@ npm run build
 
 Running this command will generate the `bundle.js` and other necessary files which will be located inside the `/dist` folder
 
+# Download example
+
+You can download the latest release of the app from the following link: https://github.com/hassifmohd/js-webapp-boilerplate/releases/tag/v1
+
+# Explaining what the code does
+
+The main source code for this boilerplate can be found inside the `/src` folder.
+
+In this folder, you will find the following files:
+
+- `index.html`: This file is responsible for the interface of your application.
+
+- `index.ts`: This is the initial JavaScript file, written in TypeScript (.ts extension).
+
+- `app.ts`: The main file where most of the coding is expected to be done. I have added helpful comments to indicate their significance.
+
 # Why I did this?
 
 I created this new GitHub repository with a purpose in mind. Let me share the story behind it. I already had an existing PHP application, and I wanted to enhance its interface using JavaScript.
